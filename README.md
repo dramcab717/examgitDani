@@ -12,7 +12,7 @@ Mi nombre es Enrique Martínez Fernández y en este examen voy a poner en práct
 ## Objetivo
 Crearemos una web para el instituto [I.E.S Pablo Picasso](https://ies-pablopicasso.es) :school:
 
-![Logo I.E.S. Pablo Picasso](https://fpiespablopicasso.es/wpcontent/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
+![Foto pablo picasso.](https://fpiespablopicasso.es/wpcontent/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
 
 ---
 
